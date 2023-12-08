@@ -1,0 +1,103 @@
+/*css reset */
+body{
+    margin: 0px;
+    padding:0px;
+    font-family: Poppins;
+    /* to add img in background */
+    background: url('img/bg.jpg');
+    /* to cover screen with full bg_img */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* color of whole body content */
+    color: azure;
+  
+}
+.left{
+    display: inline-block;
+    position: absolute;
+    left: 34px;
+    top: 10px;
+}
+.mid{
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+
+}
+.right{
+    display: inline-block;
+    position: absolute;
+    right: 46px;
+    top: 32px;
+}
+.navbar{
+    display: inline-block;
+}
+.navbar li{
+    display: inline-block;
+    font-size: medium;
+    font-weight: bold;
+
+}
+.navbar li a{
+    text-decoration: none;
+    color: white;
+    padding: 10px 5px;
+    
+}
+.navbar li a:hover{
+    color: grey;
+    text-decoration: underline;
+}
+.left img{
+    width: 90px;
+    filter:invert(100%);
+}
+.btn{
+    margin: 0px 9px;
+    background-color: black;
+    padding: 9px 10px;
+    color: white;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Poppins;
+}
+.btn:hover{
+    background-color: grey;
+}
+.container{
+    border: 1px solid white;
+    display: block;
+    width: 40%;
+    margin: 100px auto;
+    padding: 75px;
+    border-radius: 28px;
+}
+.container h1{
+    text-align: center;
+}
+.form-group input{
+    display: block;
+    padding: 2px;
+    width: 350px;
+    border: 1px solid black;
+    border-radius: 11px;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 25px;
+}
+/* target the button of the conatiner but if u make any change using btn class then it will change all the button */
+.container button{
+    display: block;
+    width: 100px;
+    margin: 10px auto;
+    font-size: 20px;
+}
+.navbar li{
+    
+    padding: 15px;
+}
+
+
+

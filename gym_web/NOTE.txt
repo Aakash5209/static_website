@@ -1,0 +1,4 @@
+To make div in center using margin auto u need {without using float, grid, flexbox} to give 3 things to element- display- block, width , and marigin: x auto.
+you cant set the width of inline element.
+display: inline-block => inline b rhega or width and height b set kr skte h.
+/* invert fxn in css which change the color of img black to white vice versa */
