@@ -1,0 +1,73 @@
+html, body{
+    height: 100%;
+    margin:0%;
+    font-size: 16px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.pimg1{
+    background-image: url(img/image1.png);
+    min-height: 100%;
+    
+}
+.pimg2{
+    background-image: url(img/image2.png);
+    min-height: 600px;
+    /* if u write min-height in px then img will display in ur giv
+    in pixel while if u write it in % then img will display relative to scr size */
+}
+.pimg3{
+    background-image: url(img/image3.png);
+    min-height: 600px;
+}
+ .pimg1,
+ .pimg2,
+ .pimg3{
+    /* to control the size of img */
+    position: relative;
+    background-position: center;
+    /* to cover the full screen by img */
+   background-size: cover;
+   background-repeat: no-repeat;
+   /*  Now to provide the Parallax effect use background-attcahment: fixed; due to
+    this property the img  will be fixed bt div element will pass over the img */
+   background-attachment:fixed;
+}
+/* formating inside div to provide style and bring text in the centre */
+.ptext{
+    /* to bring text in thye mide of img use- 
+    position: absolute; top:50%;  width: 100%; text-align: center; */
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 2px;
+
+    
+}
+/* now for providing its design in background we will target its span */
+.textbg{
+    background-color: rgb(231, 227, 223);
+}
+.section{
+     /* provide padding to make paragraph text in center  */
+     padding: 50px 80px;
+     font-size: 20px;
+
+}
+.section-light{
+   background-color: rgb(245, 238, 228);
+   color: black;
+
+}
+.section-dark{
+    background-color: rgb(38, 38, 37);
+    color: aliceblue;
+
+}
