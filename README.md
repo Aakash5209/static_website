@@ -20,7 +20,7 @@ The Job Tribute Static Website is created to showcase and pay tribute to profess
 ## Features
 - **Responsive Design:** Ensure your tribute website looks great on various devices and screen sizes.
   
-
+# 4 Parallax Website-
 The Parallax Website Project is designed to create a visually engaging website using the parallax scrolling effect.
 This effect adds depth and dynamics to the user experience, making your website stand out.
 ## Features-
