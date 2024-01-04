@@ -29,16 +29,13 @@ This effect adds depth and dynamics to the user experience, making your website 
 - **Responsive Design:** Ensure your website looks great on various devices and screen sizes.
 - **Easy Customization:** Customize the website to fit your content and branding.
 
-![Screenshot (266)](https://github.com/Aakash5209/static_website/assets/56769552/89dd4d89-08e4-45dc-82ba-76b437f1903c)
+- 
 
-![Screenshot (265)](https://github.com/Aakash5209/static_website/assets/56769552/eb4c69f2-0bbb-4e13-8ffa-78b072af8dfb)
 
-![Screenshot (264)](https://github.com/Aakash5209/static_website/assets/56769552/91088fbe-1604-465b-acf1-3a393337fb47)
-
-![Screenshot (263)](https://github.com/Aakash5209/static_website/assets/56769552/a47fe8e4-8360-443b-9d2e-f00e76454d18)
-
-![Screenshot (262)](https://github.com/Aakash5209/static_website/assets/56769552/eba833c8-8154-41da-826d-da1ba09e7746)
-
-![Screenshot (267)](https://github.com/Aakash5209/static_website/assets/56769552/15909790-6083-4d9c-a826-40a7b7b78706)
-
-![Screenshot (268)](https://github.com/Aakash5209/static_website/assets/56769552/1659d003-4879-476e-b5ec-47d85ef72edc)
+![Screenshot (275)](https://github.com/Aakash5209/static_website/assets/56769552/369b81f1-c708-488a-bc94-97ce1fc27782)
+![Screenshot (274)](https://github.com/Aakash5209/static_website/assets/56769552/478ee6ec-d7d3-4d54-93c9-2070dba321e6)
+![Screenshot (273)](https://github.com/Aakash5209/static_website/assets/56769552/46eef97d-f280-4511-a43b-1e1c5034edc8)
+![Screenshot (272)](https://github.com/Aakash5209/static_website/assets/56769552/c55d2b51-8bad-4988-b67e-c4d989b2268d)
+![Screenshot (271)](https://github.com/Aakash5209/static_website/assets/56769552/ec790218-7ccf-4541-a7ba-b6a69fd267f6)
+![Screenshot (270)](https://github.com/Aakash5209/static_website/assets/56769552/448377cb-a3b9-4a6d-b754-c25dfde63d9e)
+![Screenshot (269)](https://github.com/Aakash5209/static_website/assets/56769552/e4b22370-2baf-42b3-920f-afa95e111da0)
